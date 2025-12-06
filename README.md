@@ -70,10 +70,6 @@ Responsive multi-page website designed for books selling.
 
 ---
 
-<p align="center"><i>"Consistency beats talent when talent doesn’t show up."</i></p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: muskanagarwaljuly8@gmail.com
