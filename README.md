@@ -50,17 +50,14 @@ Responsive multi-page website designed for books selling.
 
 ---
 
-## 📊 GitHub Stats
-
 <table>
 <tr>
 <td width="40%" valign="top">
 
 ### 👤 Siya  
-- 🔥 **Total Contributions:** ![](https://komarev.com/ghpvc/?username=Siya55555&style=flat-square)  
-- 📦 **Public Repos:** ![](https://img.shields.io/badge/dynamic/json?color=green&label=repos&query=%24.public_repos&url=https://api.github.com/users/Siya55555)  
-- ⏳ **On GitHub Since:** 2023  
-- ⚡ **Current Focus:** Web Dev | Java | Python  
+- 🔥 Total Contributions: ![](https://komarev.com/ghpvc/?username=Siya55555&style=flat-square)  
+- 📦 Public Repos: ![](https://img.shields.io/badge/dynamic/json?color=green&label=repos&query=%24.public_repos&url=https://api.github.com/users/Siya55555)  
+- ⏳ On GitHub Since: 2023  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Siya55555&hide_title=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
 
