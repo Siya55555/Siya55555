@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muskan (Siya) 👋</h1>
+<h1 align="center">Hi, I'm Siya 👋</h1>
 <h3 align="center">BCA Student | Frontend Developer | Java & Python Programmer</h3>
 
 <p align="center">
@@ -51,6 +51,8 @@ Responsive multi-page website designed for books selling.
 ---
 
 ## 📊 GitHub Stats
+
+[![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siya55555)](https://github.com/Siya55555/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=dark" />
