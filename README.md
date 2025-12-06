@@ -49,30 +49,31 @@ Responsive multi-page website designed for books selling.
 🔗 Repo: comming soon
 
 ---
+## 📊 GitHub Stats
 
 <table>
-<tr>
-<td width="40%" valign="top">
-
-### 👤 Siya  
-- 🔥 Total Contributions: ![](https://komarev.com/ghpvc/?username=Siya55555&style=flat-square)  
-- 📦 Public Repos: ![](https://img.shields.io/badge/dynamic/json?color=green&label=repos&query=%24.public_repos&url=https://api.github.com/users/Siya55555)  
-- ⏳ On GitHub Since: 2023  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Siya55555&hide_title=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-
-</td>
-
-<td width="60%" valign="top">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark&hide_border=true&area=true" />
-
-</td>
-</tr>
+  <tr>
+    <!-- LEFT: compact stats card -->
+    <td width="46%" valign="top">
+      <h3>Siya</h3>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Siya55555&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Summary"
+        alt="Siya's GitHub Stats"
+      />
+    </td>
+    <!-- RIGHT: contribution graph -->
+    <td width="54%" valign="top">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark&hide_border=true&area=true"
+        alt="Siya's Contribution Graph"
+      />
+    </td>
+  </tr>
 </table>
 
-<p align="center"><i>"Challenge yourself, transform your future!🌈."</i></p>
-
+<p align="center">
+  <i>"Challenge yourself, transform your future! 🌈"</i>
+</p>
 
 ---
 
