@@ -54,6 +54,8 @@ Responsive multi-page website designed for books selling.
 
 [![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siya55555)](https://github.com/Siya55555/github-readme-stats)
 
+![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siya55555&hide=contribs,prs)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=dark" />
 </p>
