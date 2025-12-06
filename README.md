@@ -27,10 +27,10 @@
 `HTML` `CSS`  `JavaScript`
 
 ### ⚙️ Backend & Frameworks  
-`Django` `Flask (Basic)`
+`Django` `Flask (Basic)` `MySQL` 
 
 ### 🧰 Tools & Platforms  
-`GitHub` `VS Code` `Linux (Basic)` `Intellij Idea` `MySQL` `SQLite`
+`GitHub` `VS Code` `Linux (Basic)` `Intellij Idea`
 
 ---
 
