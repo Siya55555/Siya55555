@@ -49,13 +49,30 @@ Responsive multi-page website designed for books selling.
 🔗 Repo: comming soon
 
 ---
+
 ## 📊 GitHub Stats
 
-[![Siya55555's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/contributions/?username=Siya55555&show_icons=true&theme=dark)](https://github.com/Siya55555)
+<table>
+<tr>
+<td width="40%" valign="top">
 
-[![Siya55555's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siya55555&show_icons=true&theme=dark&hide_title=true)](https://github.com/Siya55555)
+### 👤 Siya55555  
+- 🔥 **Total Contributions:** ![](https://komarev.com/ghpvc/?username=Siya55555&style=flat-square)  
+- 📦 **Public Repos:** ![](https://img.shields.io/badge/dynamic/json?color=green&label=repos&query=%24.public_repos&url=https://api.github.com/users/Siya55555)  
+- ⏳ **On GitHub Since:** 2023  
+- ⚡ **Current Focus:** Web Dev | Java | Python  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siya55555&layout=compact&theme=dark&hide_title=true)](https://github.com/Siya55555)
+<img src="https://github-readme-stats.vercel.app/api?username=Siya55555&hide_title=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+
+</td>
+
+<td width="60%" valign="top">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark&hide_border=true&area=true" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <i>"Challenge yourself, transform your future! 🌈"</i>
