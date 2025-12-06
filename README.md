@@ -52,25 +52,30 @@ Responsive multi-page website designed for books selling.
 
 ## 📊 GitHub Stats
 
-[![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siya55555)](https://github.com/Siya55555/github-readme-stats)
+<table>
+<tr>
+<td width="40%" valign="top">
 
-![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siya55555&hide=contribs,prs)
+### 👤 Siya  
+- 🔥 **Total Contributions:** ![](https://komarev.com/ghpvc/?username=Siya55555&style=flat-square)  
+- 📦 **Public Repos:** ![](https://img.shields.io/badge/dynamic/json?color=green&label=repos&query=%24.public_repos&url=https://api.github.com/users/Siya55555)  
+- ⏳ **On GitHub Since:** 2023  
+- ⚡ **Current Focus:** Web Dev | Java | Python  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Siya55555&hide_title=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siya55555&theme=dark" />
-</p>
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siya55555&layout=compact&theme=dark" />
-</p>
+<td width="60%" valign="top">
 
-## 🔥 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark&hide_border=true&area=true" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark)
+</td>
+</tr>
+</table>
+
+<p align="center"><i>"Consistency beats talent when talent doesn’t show up."</i></p>
+
 
 ---
 
