@@ -51,25 +51,11 @@ Responsive multi-page website designed for books selling.
 ---
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <!-- LEFT: compact stats card -->
-    <td width="46%" valign="top">
-      <h3>Siya</h3>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Siya55555&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Summary"
-        alt="Siya's GitHub Stats"
-      />
-    </td>
-    <!-- RIGHT: contribution graph -->
-    <td width="54%" valign="top">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark&hide_border=true&area=true"
-        alt="Siya's Contribution Graph"
-      />
-    </td>
-  </tr>
-</table>
+[![Siya55555's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/contributions/?username=Siya55555&show_icons=true&theme=dark)](https://github.com/Siya55555)
+
+[![Siya55555's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siya55555&show_icons=true&theme=dark&hide_title=true)](https://github.com/Siya55555)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siya55555&layout=compact&theme=dark&hide_title=true)](https://github.com/Siya55555)
 
 <p align="center">
   <i>"Challenge yourself, transform your future! 🌈"</i>
