@@ -74,7 +74,7 @@ Responsive multi-page website designed for books selling.
 </tr>
 </table>
 
-<p align="center"><i>"Consistency beats talent when talent doesn’t show up."</i></p>
+<p align="center"><i>"Challenge yourself, transform your future!🌈."</i></p>
 
 
 ---
