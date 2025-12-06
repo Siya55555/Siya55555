@@ -57,16 +57,16 @@ Responsive multi-page website designed for books selling.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siya55555&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siya55555&layout=compact&theme=dark" />
 </p>
 
 ## 🔥 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark)
 
 ---
 
