@@ -34,22 +34,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🛒 Amazon Clone
-Full-featured e-commerce web app with authentication, cart, and product management.  
-**Tech:** HTML, CSS, Javascript
-🔗 Repo: https://github.com/your-username/amazon-clone-django
-
----
-
-### 🎢 Bookworld Eccomerce Website(In Progress)
-Responsive multi-page website designed for books selling.  
-**Tech:** HTML, CSS, JavaScript
-🔗 Repo: comming soon
-
----
-
 ## 📊 GitHub Stats
 
 <table>
