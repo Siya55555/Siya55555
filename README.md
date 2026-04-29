@@ -65,15 +65,15 @@ Focused on cybersecurity, ethical hacking, networking, and hands-on security lab
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siya55555&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Siya87&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siya55555&theme=github-dark-blue&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siya87&theme=github-dark-blue&hide_border=true" width="48%" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siya55555&theme=github-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siya87&theme=github-dark&hide_border=true&area=true" width="95%"/>
 
 </p>
 
